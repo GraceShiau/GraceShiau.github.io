@@ -1,0 +1,5 @@
+---
+layout: post
+title: First Week of CS371P 
+---
+This is a test to see if I'm doing this right.
