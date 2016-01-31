@@ -1,0 +1,27 @@
+---
+layout: post
+title: Week 2 of CS371P
+---
+![My headshot]({{ GraceShiau.github.io }}/assets/headshot.jpg)
+
+1. What did you do this past week?
+  This past week has been nothing but troublesome setup for this class. Both this blog and Collatz had been a mess! But I'm finally done with the hardest parts (I think). From now on, for this blog I just have to create a new blog weekly, which is easy. And for Collatz, having struggled through Github, Travis CI, Sphere, etc, I believe the worst is behind me. 
+2. What's in your way?
+  I'd personally like the office hours to spread out more during the week...
+3. What will you do next week?
+  This coming week I will try to finish Collatz as soon as possible.
+
+This week, what jumped out to me the most is how much I hate the quizzes. I've never been a big fan of using testing as a metric to see how well a student is doing in class, because I personally believe it's inaccurate. How well I understand the class materials, how long I study, and how good I am at coding have never been reflected accurately on timed quizzes or tests where we are put under pressure and not allowed to consult resources where, in a real life situations, we'd always be able to consult. I suppose there isn't a lot to be done about this, but I'd still like to get this opinion out there. I hope as we move forward in class with actual lecture materials this situation would get better.
+
+Tip of the week: Grades only matter so much at the end (or not at all once you receive your offer). Work harder, but don't let it affect you negatively.
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73081993-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
