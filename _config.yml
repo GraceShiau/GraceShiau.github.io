@@ -4,7 +4,7 @@ email: grace.shiau@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is a weekly blog for Dr. Gleen Downing's CS371P class at UT Austin.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: I don't use Twitter; this is not a link.
 github_username:  GraceShiau
 
