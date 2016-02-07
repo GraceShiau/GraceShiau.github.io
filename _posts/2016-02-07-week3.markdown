@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Week 1 of CS371P
+title: Week 3 of CS371P
 ---
 ![My helpful screenshot]({{ GraceShiau.github.io }}/assets/headshot.jpg)
 
 1. What did you do this past week?
+  Other than attending the lectures, this week I finished and turned in the Collatz project. It was very unfortunate that I couldn't turn in the project on time -- I realized too late that I had reached my CS storage quota, and everything stopped working half an hour before the deadline (since I do all my work using the CS machines). By the time I figured out what was happening and fixed it, it was too late. Oh well! There's a first for everything, and now I know not to make the same mistake again!
 2. What's in your way?
+  The lack of experience with all the tools we're using is quite a trouble. While gaining this kind of experience is one of the main goals for this class, it sure is stressful trying to figure out everything for the first time, FOR A GRADE. I'm sure this will get better as class goes on though.
 3. What will you do next week?
+  I am surely starting the second project early! I will also keep up with the lecture materials as I had been doing.
 
+Having done the first project and some solid material-delivering lectures now, I'm starting to wish that I had taken this class before most of the other CS classes. I transferred into CS my second year in Dean's Scholars, and I had so much to catch up -- I could only scramble to get all the requirements done on time. With that being the case, I somehow managed through the basics honors classes without a solid understanding of many of the things we're covering now, and man, would I have learned so much more in those honors classes had I have these concepts down. It makes me truly appreciate what we're learning in this class, both from the lectues and what we're doing in the projects. I'd even go as far as saying we should make this class (or maybe Software Engineering) a pre-req for most other classes. Perhaps my biggest regret for my undergrad CS career is having taken the classes I've taken before going through at least one of Professor Downing's classes.
 
+Something else I truly appreciate is how much Professor Downing cares. You can tell he isn't teaching for the sake of just teaching, or heck, getting his paychecks. He cares to make you into a great programmer with very desirable habits. It makes me so happy to see Professors like him still exist, and I believe it's professors like him that make UTCS such a great department. This is my last semester at UT, and I'll be off to the industry in a few months. I'd just really like to encourage everyone to get every chance you can to enjoy Downing's classes and, seriously, learn everything he's trying to teach you.
 
-Tip of the week: 
+Tip of the week: Check Piazza. Often. Very often. You'll find answers you need on there. Even ones to the questions you don't know you'll be asking yet.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -20,6 +25,5 @@ Tip of the week:
 
   ga('create', 'UA-73081993-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 
