@@ -1,5 +1,5 @@
 # Site settings
-title: ![My helpful screenshot]({{ GraceShiau.github.io }}/assets/rsz_optimized-headshot_1.jpg) CS371P Spring 2016 Grace Shiau
+title: CS371P Spring 2016 Grace Shiau
 email: grace.shiau@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is a weekly blog for Dr. Gleen Downing's CS371P class at UT Austin.
