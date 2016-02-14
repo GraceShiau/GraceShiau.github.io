@@ -4,15 +4,15 @@ title: Week 4 of CS371P
 ---
 ![My helpful screenshot]({{ GraceShiau.github.io }}/assets/headshot.jpg)
 
-1. What did you do this past week? This week I got an early start on project 2 with my partner. I also kept on attending the lectures and everything I could.
-2. What's in your way? Lack of motivation to read the reading assignment. There are so many other things to do...
+1. What did you do this past week? This week I got an early start on project 2 with my partner. I also kept on attending the lectures and learning everything I could.
+2. What's in your way? Lack of motivation to do the reading assignment. There are so many other things to do...
 3. What will you do next week? I will try to finish the project fast and definitely keep up with the lecture materials as I have been doing.
 
-I think/hope that the roughest part of pushing off for this class is over. Quizzes were bad at the beginning, but not anymore; having solid class materials to quiz us over truly makes a difference (at least for me). The lecture contents are still great and as useful as ever, so I've been really enjoying that. Having struggled through the setup for the first assignment, it seems things are going well for the second assignment so far (I think). It sure took a while to really ramp up for this class, but I think I'm finally done being overwhelmed! Hopefully that won't change too much.
+I think/hope that the roughest part of pushing off for this class is over. Quizzes were bad at the beginning, but not anymore; having solid class materials to quiz us over truly makes a difference (at least for me). The lecture contents are still great and as useful as ever, so I've been really enjoying that. Having struggled through the setup for the first assignment, it seems things are going well for the second assignment (I think). It sure took a while to really ramp up for this class, but I think I'm finally done being overwhelmed! Hopefully that won't change too much.
 
 One more thing -- I really like that Professor Downing invites speakers to this class. This goes back to what I was saying last week about how he really makes an effort to make this class as practically beneficial to us as possible. While I've gone to plenty of talks just like this one myself (since I've been here for so long...), I'm sure many other classmates really benefited from this talk. Thanks again, Professor Downing!
 
-Tip of the week: I've been learning Haskell for another class, and Hoogle is a great resource for doing that: https://www.haskell.org/hoogle/
+Tip of the week: I've been learning Haskell for another class, and Hoogle is a great resource for doing that: https://www.haskell.org/hoogle/.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
