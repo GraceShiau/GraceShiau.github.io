@@ -4,15 +4,15 @@ title: Week 6 of CS371P
 ---
 ![My helpful screenshot]({{ GraceShiau.github.io }}/assets/headshot.jpg)
 
-1. What did you do this past week? 
+For this past week, I did the same old stuff as before -- attending classes, reviewing before class for the quizzes, taking notes during class, etc. Nothing special!
 
-2. What's in your way? 
+As for blockers, I still don't think I have any particular ones for this class.
 
-3. What will you do next week?
+For this next week, I will be mainly studying for the midterm on Friday!
 
+This week, for the first time this semester, I was starting to feel like I have to concentrate a little harder to follow what's going on in class. Before this, it's been pretty straight forward and easy for me to get the materials since Dr. Downing's style of teaching works very well for me -- he's detailed, well paced, and gives a lot of concrete examples, just the way I learn best. I wouldn't have to think particularly hard to understand the concepts well. For the past two lectures while discussing lambda functions and range iterators, however, it took a while for the concepts to set in for me since there was so much scrolling around the file while Dr. Downing was explaining, and a lot of the code looks very similar. I don't think it's necessarily the lambda functions or the range iterators that is hard to learn, but just that jumping around the same file gets quite confusing. Still, as I've iterated before, even with this little confusion, I'd rank this class' organization, clarity, and usefulness over any other classes I've taken at UT in a heart beat. Thanks again Dr. Downing for this awesome class!
 
-
-Tip of the week: 
+Tip of the week: stackoverflow is bae.
 
 
 <script>
