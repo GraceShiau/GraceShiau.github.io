@@ -4,14 +4,15 @@ title: Week 7 of CS371P
 ---
 ![My helpful screenshot]({{ GraceShiau.github.io }}/assets/headshot.jpg)
 
-For this past week,
+This past week was all studying for the midterm. I reviewed the Googld doc, my own notes, and the code files we went over in class. I also made a cheat sheet.
 
 As for blockers, I still don't think I have any particular ones for this class.
 
-For this next week, 
+For this next week, I'd really love to finish the Allocator project if possible. But I guess we'll have to see... It'll be so awesome if I don't have to worry about this project during spring break!
 
+So, the midterm happened. Overall, I think it's a really fair test and I actually had a lot of fun taking it. I have never taken a test this way -- using a laptop and taking it online on Canvas. I must say, any professor who is willing to give a test this way to save paper must trust the students a whole lot, and I really respect that! I've always appreciated professors who treat their students as adults. As far as the contents went, I think it was good in that it accurately and fairly tested your understanding with application. A lot of undergrad tests have the problems of: 1) have you regurgitate the materials, in which you mostly just forget what you studied after the semester; 2) too long, so students stress out and don't perform well; and 3) have materials that were not really taught in lectures??? This midterm did none of that, and you can do quite well if you really understand the lectures. So again, in conclusion, I think it was a really good test!
 
-Tip of the week: 
+Tip of the week: as Dr. Downing suggested, the usage of a cheat sheet on a test might be low, but the process of making one really is invaluable!
 
 
 <script>
