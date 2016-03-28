@@ -4,15 +4,19 @@ title: Week 9 of CS371P
 ---
 ![My helpful screenshot]({{ GraceShiau.github.io }}/assets/headshot.jpg)
 
-This past week was quite busy for me. Coming back from spring break was a little hard, and other than the allocator project I also had another test. I 
+This past week was quite busy for me. Coming back from spring break was a little hard, and other than the allocator project I also had another test. The majority of the week was spent taking care of these things.
 
-As for blockers,
+As for blockers, I still don't really have any.
 
-For the next week,
+For the next week, I will probably just be finishing up the new Darwin project if my partner and I haven't already done so by then.
 
+The class is still going swimmingly well for me. It is indeed getting a little harder to follow the materials in lectures than before, but it's nothing to sweat about as long as I pay a little more attention and review after class. As usual, all the details of C++ we're learning are extremely important, which I know from painful personal experience, i.e. working on projects that needed these concepts which led to long hours of head-scratching, screen-staring, and internal crying. Now that I'm actually learning these concepts solidly, it feels so nice.
 
+The third project went well as well, only with a little difficulty due to the fact that my partner and I were not sure what exactly goes on in the tests. At the end, however, we were able to figure it all out without too much frustration.
 
-Tip of the week: 
+Hopefully all of these continue for the next 6 weeks until the end of school!
+
+Tip of the week: Not compeltely techinical, but I think it's nice to keep up with the news in the technology industry by subscribing to various news source. I at least skim the headlines of New York Times, The Washington Post, and Wire everyday (since I have the free email subscriptions).
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
