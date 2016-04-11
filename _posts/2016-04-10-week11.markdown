@@ -8,10 +8,11 @@ This past week was good. Still nothing particularly special.
 
 As for blockers, I still do not really have any.
 
-For the next week, I'll be learning all the details we need for the last project. Hopefully I can finish it with my partner soon (maybe even this week)!
+For the next week, I will be learning all the details we need for the last project. Hopefully I can finish it with my partner soon (maybe even this week)!
 
+I am finding the quizzes to be increasingly annoying. With the details of what we are learning becoming more and more complex (though not necessarily difficult), it is harder to understand the questions and get everything right with the time pressure. Lately, I find the lecture materials a little harder to extract the focus as well. It is a bit difficult to explain what I mean by this, but here is my attempt: usually I can identify easily what we went over the lecture before in just a phrase, if you were to ask me; but for the last few lectures on vector, I find it more difficult to do so. This also results in me not being able to fit the details into the big picture, which also lowers my understanding of the concepts overall. Perhaps this kind of stuff just happens to me for certain kinds of materials, but I'm not sure how I can fix this, or what would help with this situation. This is not a huge issue though, I'm still following along fine most of the time, just not as good as before.
 
-Tip of the week:
+Tip of the week: communication is the key to successful pair programming!
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
