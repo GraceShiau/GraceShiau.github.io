@@ -8,10 +8,15 @@ This past week was good, nothing special again.
 
 As for blockers, I still do not really have any.
 
-The next week will probably be focused on the final. 
+The next week will probably be focused on the final. Excluding Monday, we only have four more lectures left! After the final exam on the last day of class, this class will be over. How crazy!
 
+My partner and I successfully wrapped up the last project. As before, each partner gives a very different experience to pair programming. The learning never stops! 
 
-Tip of the week: 
+As for the project's content itself, I found it to be very enjoyable to learn all the details to inheritance through Life. I find inheritance to be much more interesting and enjoyable to deal with than, say, memory management we have done through Allocator. Further proof to what I already know -- I definitely like higher level stuff!
+
+Again, the semester is almost over. I can't believe how close graduation is from now. As someone who chose industry over research/staying in school longer without a moment of doubt, I am super excited to switch gear and start fresh in a new setting! Here's to the last few days of undergrad~
+
+Tip of the week: online diff is very useful (ex. https://www.diffchecker.com/), I wish I had discovered this earlier.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
