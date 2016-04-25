@@ -6,11 +6,11 @@ title: Week 13 of CS371P
 
 This past week was good, nothing special again.
 
-As for blockers, I still do not really have any.
+As for blockers, I still do not really have any (talking about pieces of code we can't see is still a little difficult...).
 
 The next week will probably be focused on the final. Excluding Monday, we only have four more lectures left! After the final exam on the last day of class, this class will be over. How crazy!
 
-My partner and I successfully wrapped up the last project. As before, each partner gives a very different experience to pair programming. The learning never stops! 
+My partner and I successfully wrapped up the last project. As before, each partner gives a very different experience to pair programming. The learning never stops! I think I am, however, very lucky to be able to say that all my pair programming partners this semester have been fantastic. They are all very intelligent and respectable people. I hope I have been as good to them as they have been to me!
 
 As for the project's content itself, I found it to be very enjoyable to learn all the details to inheritance through Life. I find inheritance to be much more interesting and enjoyable to deal with than, say, memory management we have done through Allocator. Further proof to what I already know -- I definitely like higher level stuff!
 
