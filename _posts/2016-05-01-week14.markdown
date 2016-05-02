@@ -10,9 +10,9 @@ As for blockers, I still do not really have any.
 
 The next week will be allllll about the last exam! Some more studying and this class will be over.
 
-I think this might be the last post for this weekly blog for CS371P? Either way, I just wanted to say that it has sincerely been a great semester learning C++. As I've iterated countless time in this blog, I think this is a fantastic class, and the decision to take this class has been one of the best ones I have made during my time at UTCS. Coming from a previous internship where I had to use C++ without knowing much about it, I know for sure that this class is going to help me so much when I officially step into the industry as a new grad in a few months. Dr. Downing, I just wanted to thank you again for being one of the best professors I have the honor of taking a class from as a student here. You are brilliant both as a software engineer and especially as a teacher; it truly shows. Many of us also greatly appreciate the fact that you really care about us and only want to give us the best. Thank you.
+I think this might be the last post for this weekly blog for CS371P? Either way, I just wanted to say that it has sincerely been a great semester learning C++. As I've iterated countless times in this blog, I think this is a fantastic class, and the decision to take this class has been one of the best ones I have made during my time at UTCS. Coming from a previous internship where I had to use C++ without knowing much about it, I know for sure that this class is going to help me so much when I officially step into the industry as a new grad in a few months. Dr. Downing, I just wanted to thank you again for being one of the best professors I have the honor of taking a class from as a student here. You are brilliant both as a software engineer and especially as a teacher; it truly shows. Many of us also greatly appreciate the fact that you really care about us and only want to give us the best. Thank you.
 
-Tip of the week: files from the website, Google Doc, and Canvas quizzes are great resources for studying for the exam.
+Tip of the week: files from the class website, Google Doc, and Canvas quizzes are great resources for studying for the exam.
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
